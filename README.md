@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - SeaLife
 
-Submitted by: **Your Name Here**
+Submitted by: Arnold Gichuru Waigwa
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+SeaLife is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 15 hours spent in total
 
 ## Required Features
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ Changed CSS background to add visibility. Added hover and box shadow to buttons] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
