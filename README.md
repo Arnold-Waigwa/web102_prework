@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ Changed CSS background to add visibility. Added hover and box shadow to buttons] List anything else that you can get done to improve the app functionality!
+* List anything else that you can get done to improve the app functionality! [I Changed CSS background to add visibility. Added hover and box shadow to buttons] 
 
 ## Video Walkthrough
 
