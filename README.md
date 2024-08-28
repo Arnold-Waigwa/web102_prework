@@ -35,6 +35,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+A major challenge that I encountered was trying to build the gif walkthrough with licecap due to some technical issues. I also had a hard time working around git push and git pull as I encountered many frustrating errors.
 
 ## License
 
